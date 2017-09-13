@@ -52,4 +52,5 @@
 //echo "<pre>";
 //print_r($arr);
 //echo "</pre>";
-echo '�޸ģ��ύ1��';
+echo '修改，提交1次';
+echo '修改，提交2次';
